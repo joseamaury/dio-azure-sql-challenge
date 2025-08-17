@@ -20,7 +20,7 @@ Este repositório foi desenvolvido como parte do **Desafio de Projeto da DIO** p
 ## 🖼️ Evidências (prints)
 
 - Creating a SQL database  
-  ![Creating a SQL database](images/sql1.JPG)
+  ![Creating a SQL database](./images/sql1.JPG)
 
   - Creating a SQL database server (1/2)  
   ![Creating a SQL database server](images/sql2.JPG)
