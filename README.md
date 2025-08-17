@@ -1,4 +1,4 @@
-# 🚀 Desafio/Challenge DIO - Azure SQL Database
+# 🚀 Azure SQL Database - Desafio DIO
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joseamaury/dio-azure-sql-challenge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/joseamaury/dio-azure-sql-challenge)
@@ -18,10 +18,12 @@ Este repositório foi desenvolvido como parte do **Desafio de Projeto da DIO** p
 ---
 
 ## 📚 Passos Realizados / Step by Step
-1. Logar no **Azure Portal**
-2. Configurar regras do **SQL Database**
-3. Conectar/criar o **Servidor**
-4. Ter uma base de como funciona o **Pay as you go**
+1. Acessar o **Azure Portal**
+2. Criar um recurso de **SQL Database**
+3. Configurar regras de **Firewall**
+4. Criar e conectar ao **Servidor SQL**
+5. Entender o modelo de cobrança **Pay-as-you-go**
+
 
 ## 🖼️ Evidências (prints)
 
@@ -45,8 +47,9 @@ Este repositório foi desenvolvido como parte do **Desafio de Projeto da DIO** p
 
 ## 🔗 Links Úteis
 
-- [Criar uma Máquina Virtual do Windows no Azure](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal) 💻
-- [Azure SQL documentacion](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql) 💻
+- [Criar a SQL database no Azure](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal) 💻
+- [Azure SQL documentation](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql) 💻
+- [Digital Innovation One (DIO)](https://www.dio.me/) 🚀
 
 ---
 
