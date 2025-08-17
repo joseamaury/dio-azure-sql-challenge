@@ -1,5 +1,11 @@
 # 🚀 Desafio/Challenge DIO - Azure SQL Database
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joseamaury/dio-azure-sql-challenge)
+![GitHub last commit](https://img.shields.io/github/last-commit/joseamaury/dio-azure-sql-challenge)
+![GitHub issues](https://img.shields.io/github/issues/joseamaury/dio-azure-sql-challenge)
+![GitHub stars](https://img.shields.io/github/stars/joseamaury/dio-azure-sql-challenge?style=social)
+
+
 Este repositório foi desenvolvido como parte do **Desafio de Projeto da DIO** para praticar a configuração de uma instância de **Banco de Dados SQL no Microsoft Azure** e documentar a experiência.
 
 ---
@@ -40,6 +46,7 @@ Este repositório foi desenvolvido como parte do **Desafio de Projeto da DIO** p
 ## 🔗 Links Úteis
 
 - [Criar uma Máquina Virtual do Windows no Azure](https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal) 💻
+- [Azure SQL documentacion](https://learn.microsoft.com/en-us/azure/azure-sql/?view=azuresql) 💻
 
 ---
 
